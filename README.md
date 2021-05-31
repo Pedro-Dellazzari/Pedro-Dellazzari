@@ -13,6 +13,19 @@ Now I'm looking for a oportunity to put me inside of the Data Science world and 
 - Hard-working
 - addicted to medium post of "Towards Data Science" 
 
+## Goals 
+- To be a working Data Scientists 
+- I dream of working with astrophysics in some way
+- Dream of an organize GitHub reposirotries 
+- Working in a place that I feel Motivated
+
+## Wanna talk?
+feel fre to talk to me in those channels! 
+- Instagram: 
+- LinkedIn: 
+- E-mail: 
+- Web Portfolio: Working on it! 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Dellazzari&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Dellazzari&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
