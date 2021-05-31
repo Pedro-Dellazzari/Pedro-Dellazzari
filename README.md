@@ -11,7 +11,7 @@ Now I'm looking for a oportunity to put me inside of the Data Science world and 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Dellazzari&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Dellazzari)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Dellazzari$theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
