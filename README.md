@@ -30,7 +30,7 @@ feel free to talk to me on these channels!
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Pedro-Dellazzari&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Dellazzari&layout=compact&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Dellazzari&layout=compact&theme=dracula" />
 </a>
 
 
