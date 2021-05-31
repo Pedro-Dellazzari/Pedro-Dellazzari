@@ -1,4 +1,4 @@
-### HI, I'm Pedro
+### HI, I'm Pedro :vulcan_salute:
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Dellazzari&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
