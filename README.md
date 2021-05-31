@@ -8,7 +8,7 @@ I started my academic/professional life studying Public Relations. After getting
 Now I'm looking for a oportunity to put me inside of the Data Science world and make me a true Data Scientis. So if you wanna talk, I'm here! 
 
 ## Skills
-- Curious
+- Curious ![50%](https://progress-bar.dev/50)
 - Pacient
 - Hard-working
 - addicted to medium post of "Towards Data Science" 
