@@ -9,7 +9,11 @@ Now I'm looking for a oportunity to put me inside of the Data Science world and 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Dellazzari&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## My hobbies 
+## Skills
+- Curious
+- Pacient
+- Hard-working
+- addicted to medium post of "Towards Data Science" 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Dellazzari&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
