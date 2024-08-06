@@ -49,7 +49,6 @@ feel free to talk to me on these channels!
 - Instagram: @pedrodellazzari
 - LinkedIn: https://www.linkedin.com/in/pedrodellazzari/
 - Gmail: pedrocdellazzari@gmail.com
-- Web Portfolio: See My [Notion](https://cloudy-hope-59e.notion.site/Pedro-Dellazzari-fb3e2dac0eb84047b30a20e3e5c9bc22?pvs=4) Resume with all my projects 
 
 ## My Git Stats
 
