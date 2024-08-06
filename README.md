@@ -40,7 +40,7 @@ I started working in the field of communication with Public Relations and Market
 ![git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 
 ## Goals
-- I want to become an Intelligence Artificial Engineer
+- I want to become an Artificial Intelligence Engineer
 - I dream of working on a project involving astrophysics some day 
 - I aspire to be a reference in Data Engineering and analysis inside the communication/marketing field
 
